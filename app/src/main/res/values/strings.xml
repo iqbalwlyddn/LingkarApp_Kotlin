@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LingkarApp</string>
+    <string name="splash_text">Tetangga. Teman. Keluarga</string>
+    <string name="enermous_apps">ENERMOUS APPS</string>
+    <string name="login_title">LOGIN LINGKAR</string>
+    <string name="signup_btn_text">SIGNUP</string>
+    <string name="username_hint">Email or Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_text">LOGIN</string>
+    <string name="tv_forgot_password">forgot password ?</string>
+    <string name="continue_btn_text">CONTINUE</string>
+    <string name="signup_title">SIGNUP LINGKAR</string>
+    <string name="forgot_password_title">FORGOT PASSWORD</string>
+    <string name="forgot_password_subtitle">Enter Email Address or Username</string>
+    <string name="title_activity_check_email">CheckEmailActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="check_your_email_title">CHECK YOUR EMAIL</string>
+    <string name="check_your_email_subtitle">We have sent the link to your email!\n\n<font color="#000000"><b>Click the link</b> and follow the instructions to set your new password.</font>
+    </string>
+    <string name="result_example_">Result example: \"anda1234\"</string>
+    <string name="stay_private">Unique username\nkeeping your ID stay private</string>
+    <string name="username_done">Congratulations! Your username:\n\n<b>akbr7979</b>\n\nhas been created.</string>
+    <string name="add_contacts_tv">ADD CONTACTS</string>
+    <string name="enter_lingkar_username_text">Enter lingkar username</string>
+    <string name="pending_request_text">Pending Request</string>
+    <string name="incoming_request_tv">Incoming Request</string>
+    <string name="lingkar_username_tv">LINGKAR USERNAME</string>
+    <string name="nick_hint">anda</string>
+    <string name="btn_accept">Accept</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">HOME</string>
+    <string name="title_chat">CHATS</string>
+    <string name="title_community">COMMUNITY</string>
+    <string name="title_profile">PROFILE</string>
+    <string name="content_tab_home">Konten Tab Home</string>
+    <string name="content_tab_chat">Konten Tab Chat</string>
+</resources>
